@@ -35,3 +35,28 @@ dynac = "dynac" {}
 dynad = "dynad" {}
 dynae = "dynae" {}
 dynaf = "dynaf" {}
+llspa = "llspa" {}
+llspb = "llspb" {}
+llspc = "llspc" {}
+llspd = "llspd" {}
+llspe = "llspe" {}
+llspf = "llspf" {}
+llspg = "llspg" {}
+xlspa = "xlspa" {}
+xlspb = "xlspb" {}
+xlspc = "xlspc" {}
+xlspd = "xlspd" {}
+xlspe = "xlspe" {}
+xlspf = "xlspf" {}
+xlspg = "xlspg" {}
+husha = "husha" {}
+tasra = "tasra" {}
+
+
+
+
+
+
+
+
+
