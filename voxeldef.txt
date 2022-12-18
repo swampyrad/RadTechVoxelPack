@@ -51,12 +51,8 @@ xlspf = "xlspf" {}
 xlspg = "xlspg" {}
 husha = "husha" {}
 tasra = "tasra" {}
-
-
-
-
-
-
-
-
+faida = "faida" {}
+faidc = "faidc" {}
+rdcla = "rdcla" {}
+rdclb = "rdclb" {}
 
