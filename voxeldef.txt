@@ -55,4 +55,7 @@ faida = "faida" {}
 faidc = "faidc" {}
 rdcla = "rdcla" {}
 rdclb = "rdclb" {}
-
+jakta = "jakta" {}
+fmkta = "fmkta" {}
+fmktb = "fmktb" {}
+rdioa = "rdioa" {}
